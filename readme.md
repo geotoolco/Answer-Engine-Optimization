@@ -62,9 +62,9 @@ Contributions are welcome! Feel free to open a **Pull Request** to suggest new r
 
 ### Getting Started
 
-- [What is AEO? (Frase)](https://www.frase.io/blog/what-is-answer-engine-optimization-the-complete-guide-to-getting-cited-by-ai) - The most comprehensive 2026 guide to getting cited by ChatGPT, Perplexity, and Google AI Mode.
-- [AEO Complete Guide (CXL)](https://cxl.com/blog/answer-engine-optimization-aeo-the-comprehensive-guide/) - CXL's authoritative primer — covers zero-click era, AEO vs SEO, and measurement frameworks.
-- [AEO Complete Guide (LLMrefs)](https://llmrefs.com/answer-engine-optimization) - Platform-by-platform breakdown of ChatGPT, Google AI Overviews, Perplexity, Copilot, and voice assistants.
+- [What is AEO? (Frase)](https://www.frase.io/blog/what-is-answer-engine-optimization-the-complete-guide-to-getting-cited-by-ai) - A detailed 2026 guide on how to get cited by ChatGPT, Perplexity, and other LLMs.
+- [AEO Complete Guide (CXL)](https://cxl.com/blog/answer-engine-optimization-aeo-the-comprehensive-guide/) - A very complete guide covering zero-click AI search and the key differences between AEO and SEO.
+- [AEO Complete Guide (LLMrefs)](https://llmrefs.com/answer-engine-optimization) - A breakdown of how AEO works across different platforms — ChatGPT, Google AI Overviews, Perplexity, Copilot, and more.
 - [AEO: AI Visibility in 2026 (Evergreen Media)](https://www.evergreen.media/en/guide/answer-engine-optimization/) - Deep-dive on how answer engines pick sources, with emphasis on E-E-A-T and freshness signals.
 - [AEO Guide for Startups](https://abovea.tech/answer-engine-optimization-aeo-2025/) - Founder-friendly roadmap from zero to AI-cited, with data on AI Overview growth.
 
